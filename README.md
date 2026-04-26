@@ -2,7 +2,7 @@
 
 ```text
           .----.          USER: b1swa25
-       _.'__    `.        ROLE: Cyber Security Operative
+       _.'__    `.        ROLE: Cyber Security Researcher
    .--(#)(##)---/#\       OS: Kali Linux / Debian
  .' @          /###\      LOCATION: Bhutan [BT]
  :         ,   #####      SHELL: Zsh / Bash
