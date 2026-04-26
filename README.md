@@ -19,8 +19,8 @@
 
 ## 🛸 Top Operations (Featured Projects)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=BhutanHyundaiMotors&theme=radical&hide_border=true" alt="BhutanHyundaiMotors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=deepfake-live-studio&theme=radical&hide_border=true" alt="Deepfake Live Studio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=C-With-b1swa&theme=radical&hide_border=true" alt="C-With-b1swa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=b1swa25&theme=radical&hide_border=true" alt="b1swa25">
 </p>
 
 ## 🛠️ Operational Arsenal (Skills)
