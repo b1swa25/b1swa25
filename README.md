@@ -32,14 +32,14 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## 🐍 Contribution Matrix
-<p align="center">
-  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
 ## 📡 System Heartbeat (Live Activity)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
+</p>
+
+## 🛠️ System Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b1swa25&theme=radical" alt="Metrics" width="100%">
 </p>
 
 ---
