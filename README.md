@@ -27,11 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
 </p>
 
-## 📡 Bhutan Regional Threat Intelligence (Live Monitor)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/main/bhutan_threat_graph.png" alt="Bhutan Cyber Threat Intelligence Dashboard" width="100%">
-</p>
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b1swa25&color=green&style=flat-square&label=PROFILE_VIEWS" alt="Views">
