@@ -1,15 +1,14 @@
-# ⚡ System Status: [AUTHORIZED ACCESS]
+# ⚡ System Identity: [AUTHORIZED_OPERATIVE]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/main/cybersecurity_github_banner.png" alt="Cybersecurity Banner" width="100%">
 </p>
 
 ```bash
-> INITIALIZING SECURITY_PROTOCOLS...
-> LOADING ANALYTICS_ENGINE...
-> USER_IDENTITY: b1swa25
-> SPECIALIZATION: Cybersecurity & Full-Stack Development
-> CURRENT_STATUS: [SCANNING_FOR_VULNERABILITIES]
+> USER_ID: b1swa25
+> STATUS: ACTIVE_OPERATIVE
+> SPECIALIZATION: [NETWORK_SECURITY] [WEB_PENTESTING] [FORENSICS]
+> TOOLS_LOADED: 100%
 ```
 
 ## 📊 Mission Intelligence (GitHub Stats)
@@ -18,19 +17,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1swa25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
-## 🛠️ Technical Arsenal
-### [ RED_TEAM_MODULES ]
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+## 🛠️ Tactical Arsenal (Categorized)
 
-### [ CORE_ENGINE_MODULES ]
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### [ RECONNAISSANCE & OSINT ]
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-FF6600?style=for-the-badge&logo=maltego&logoColor=white)
+
+### [ VULNERABILITY_ANALYSIS ]
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-004B87?style=for-the-badge&logo=nessus&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-FF0000?style=for-the-badge&logo=sqlmap&logoColor=white)
+
+### [ EXPLOITATION & DEFENSE ]
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+## 🎓 Certifications & Training
+### [ PROFESSIONAL_CERTS ]
+![Security+](https://img.shields.io/badge/CompTIA-Security+-0072C6?style=for-the-badge)
+![CEH](https://img.shields.io/badge/EC--Council-CEH-A10000?style=for-the-badge)
+
+### [ TRAINING_PLATFORMS ]
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ## 🛠️ System Metrics
 <p align="center">
