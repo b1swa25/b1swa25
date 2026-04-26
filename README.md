@@ -22,10 +22,10 @@
 </p>
 
 ## 🚨 Bhutan Cyber Threat Intelligence (Live Feed)
-<!-- CTI-FEED-START -->
-*   🔍 Scanning for latest regional threats...
-*   📡 Initializing Bhutanese CTI modules...
-<!-- CTI-FEED-END -->
+<!-- CTI-FEED:START -->
+*   🔍 Scanning regional networks for active threats...
+*   📡 Filtering for Bhutanese data breaches and vulnerabilities...
+<!-- CTI-FEED:END -->
 
 ---
 <p align="center">
