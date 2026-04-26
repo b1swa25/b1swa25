@@ -1,0 +1,25 @@
+name: Update Bhutan CTI Feed
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-cti:
+    name: Update this repo's README with latest CTI data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull latest Bhutan Cyber Security news
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://news.google.com/rss/search?q=Bhutan+Cyber+Security&hl=en-IN&gl=IN&ceid=IN:en"
+          comment_tag_name: "CTI-FEED"
+          max_post_count: 5
+          template: "$newline* 🛡️ [$title]($url) - $date"
