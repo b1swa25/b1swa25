@@ -1,8 +1,14 @@
 # 🛡️ Bhutanese Operative: [CENTRAL_DASHBOARD]
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/main/cybersecurity_github_banner.png" alt="Cybersecurity Banner" width="100%">
-</p>
+```text
+          .----.          USER: b1swa25
+       _.'__    `.        ROLE: Cyber Security Operative
+   .--(#)(##)---/#\       OS: Kali Linux / Debian
+ .' @          /###\      LOCATION: Bhutan [BT]
+ :         ,   #####      SHELL: Zsh / Bash
+  `-..__.-' _.-\###/      STATUS: [MONITORING_REAL_TIME_THREATS]
+        `;_:    `"'       Uptime: Live
+```
 
 ## 📊 Real-Time Intelligence
 <p align="center">
@@ -21,11 +27,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
 </p>
 
-## 🚨 Bhutan Cyber Threat Intelligence (Live Feed)
-<!-- CTI-FEED:START -->
-*   🔍 Scanning regional networks for active threats...
-*   📡 Filtering for Bhutanese data breaches and vulnerabilities...
-<!-- CTI-FEED:END -->
+## 📡 Bhutan Regional Threat Intelligence (Live Monitor)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/main/bhutan_threat_graph.png" alt="Bhutan Cyber Threat Intelligence Dashboard" width="100%">
+</p>
 
 ---
 <p align="center">

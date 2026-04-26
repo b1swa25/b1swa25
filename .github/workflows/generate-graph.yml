@@ -1,0 +1,35 @@
+name: Generate Bhutan CTI Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install requests matplotlib
+      
+      - name: Generate Graph
+        run: python generate_cti_graph.py
+      
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bhutan_threat_graph.png
+          git commit -m "Update Bhutan Threat Intelligence Graph [automated]" || exit 0
+          git push
