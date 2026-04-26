@@ -40,7 +40,7 @@
 ![CEH](https://img.shields.io/badge/EC--Council-CEH-A10000?style=for-the-badge)
 
 ### [ TRAINING_PLATFORMS ]
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+[![TryHackMe](https://tryhackme-badges.vercel.app/api/user/b1swa?theme=dark)](https://tryhackme.com/p/b1swa)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ## 🛠️ System Metrics
