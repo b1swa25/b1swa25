@@ -17,6 +17,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1swa25&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
 </p>
 
+## 🛸 Top Operations (Featured Projects)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=BhutanHyundaiMotors&theme=radical&hide_border=true" alt="BhutanHyundaiMotors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=deepfake-live-studio&theme=radical&hide_border=true" alt="Deepfake Live Studio">
+</p>
+
 ## 🛠️ Operational Arsenal (Skills)
 
 ### [ RECONNAISSANCE & OSINT ]
@@ -42,29 +48,17 @@
   </a>
 </p>
 
-### [ HACKTHEBOX_STATUS ]
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/b1swa25">
-    <img src="https://img.shields.io/badge/HackTheBox-Status-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Placeholder">
-  </a>
-</p>
-
 ## 📜 System Logs (Recent Activity)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
 </p>
 
-## 🌐 System Connectivity (Connect with me)
+## 🌐 System Connectivity (Secure Channels)
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:sandipbiswa2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <img src="https://img.shields.io/badge/Status-Secure--Link--Established-green?style=for-the-badge" alt="Secure Link">
 </p>
 
 ---
