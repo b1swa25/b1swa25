@@ -20,6 +20,7 @@
 - 🎓 Diploma in **Computer System & Network**, with a focus on **CCNA**
 - 📍  Thimphu, Bhutan
 - 🔍 Interested in digital forensics, defensive security, Linux, and systems programming
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sandip-b-636b85142/)
 
 ## Education
 
