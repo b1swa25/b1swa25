@@ -25,7 +25,7 @@
   <rect width="1200" height="360" rx="26" fill="url(#background)"/>
   <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
   <path d="M24 72H1176M24 336H1176" stroke="#8394ad" stroke-opacity=".18"/>
-  <text x="54" y="49" fill="#8ea3bc" font-family="Consolas,monospace" font-size="13" letter-spacing="3">B H U T A N  /  S E C U R I T Y  L A B</text>
+  <text x="54" y="49" fill="#8ea3bc" font-family="Consolas,monospace" font-size="13" letter-spacing="3">DIGITAL FORENSICS  /  CYBER SECURITY</text>
   <circle cx="1128" cy="43" r="5" fill="#36e0bd" filter="url(#glow)">
     <animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/>
   </circle>

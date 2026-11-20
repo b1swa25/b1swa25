@@ -23,17 +23,22 @@
 
 ## `01` / Signal
 
-I’m **b1swa25**, exploring cybersecurity and threat intelligence from Bhutan. I learn by building, breaking down problems, and sharing practical projects.
+I’m **Sandip Biswa** (`b1swa25`), a Computer Science & Engineering student focused on digital forensics and cyber security. I learn by building, breaking down problems, and sharing practical projects.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>AREAS OF INTEREST</strong><br><br>
-      🛡️ Defensive security &nbsp;·&nbsp; 🔎 Threat intelligence<br>
-      🐧 Linux &nbsp;·&nbsp; ⚙️ Systems programming
+      <strong>EDUCATION</strong><br><br>
+      🎓 <strong>B.Tech — Computer Science & Engineering</strong><br>
+      Digital Forensic and Cyber Security<br>
+      <sub>Faridabad, Haryana, India</sub><br><br>
+      🎓 <strong>Diploma — Computer System & Network</strong><br>
+      <sub>Dewathang, Bhutan</sub>
     </td>
     <td width="50%" valign="top">
-      <strong>TOOLS I’M EXPLORING</strong><br><br>
+      <strong>INTERESTS & TOOLBOX</strong><br><br>
+      🛡️ Defensive security &nbsp;·&nbsp; 🔎 Threat intelligence<br>
+      🐧 Linux &nbsp;·&nbsp; ⚙️ Systems programming<br><br>
       <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
       <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
       <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
@@ -102,12 +107,16 @@ The workflow queries AlienVault OTX and regenerates this chart. To enable it, ad
 
 <br>
 
-<img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated snake following the GitHub contribution graph" width="98%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+</picture>
 
 </div>
 
 <div align="center">
 
-<sub>Built with curiosity in Bhutan · Thanks for visiting</sub>
+<sub>Faridabad, Haryana, India · with education roots in Dewathang, Bhutan · Thanks for visiting</sub>
 
 </div>
