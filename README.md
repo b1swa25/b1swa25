@@ -1,105 +1,73 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="b1swa25 — cybersecurity, threat intelligence, and systems" width="100%">
-
-<br>
+<img src="./assets/profile-header.svg" alt="Sandip Biswa — cybersecurity and digital forensics" width="100%">
 
 [![Profile views](https://komarev.com/ghpvc/?username=b1swa25&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/b1swa25)
 [![Followers](https://img.shields.io/github/followers/b1swa25?style=for-the-badge&logo=github&label=FOLLOW)](https://github.com/b1swa25?tab=followers)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-16c7b7?style=for-the-badge&logo=github)](https://github.com/b1swa25?tab=repositories)
 
-<br>
-
-<a href="#signal">SIGNAL</a> &nbsp;·&nbsp;
-<a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
-<a href="#threat-feed">THREAT FEED</a> &nbsp;·&nbsp;
-<a href="#live-stats">LIVE STATS</a>
+<a href="#about">ABOUT</a> &nbsp;·&nbsp;
+<a href="#education">EDUCATION</a> &nbsp;·&nbsp;
+<a href="#repositories">REPOSITORIES</a> &nbsp;·&nbsp;
+<a href="#activity">ACTIVITY</a>
 
 </div>
 
 ---
 
-<a id="signal"></a>
+<a id="about"></a>
 
-## `01` / Signal
+## About
 
-I’m **Sandip Biswa** (`b1swa25`), a Computer Science & Engineering student focused on digital forensics and cyber security. I learn by building, breaking down problems, and sharing practical projects.
+I’m **Sandip Biswa** (`b1swa25`), studying Computer Science & Engineering with a focus on **Digital Forensic and Cyber Security**. I enjoy learning by building practical projects and exploring Linux, systems programming, and defensive security.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>EDUCATION</strong><br><br>
-      🎓 <strong>B.Tech — Computer Science & Engineering</strong><br>
-      Digital Forensic and Cyber Security<br>
-      <sub>Faridabad, Haryana, India</sub><br><br>
-      🎓 <strong>Diploma — Computer System & Network</strong><br>
-      <sub>Dewathang, Bhutan</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>INTERESTS & TOOLBOX</strong><br><br>
-      🛡️ Defensive security &nbsp;·&nbsp; 🔎 Threat intelligence<br>
-      🐧 Linux &nbsp;·&nbsp; ⚙️ Systems programming<br><br>
-      <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
-      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-      <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
-      <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions">
-    </td>
-  </tr>
-</table>
+<a id="education"></a>
 
+## Education
+
+| Program | Focus | Location |
+|---|---|---|
+| **B.Tech — Computer Science & Engineering** | Digital Forensic and Cyber Security | Faridabad, Haryana, India |
+| **Diploma — Computer System & Network** |  | Dewathang, Bhutan |
+
+<a id="repositories"></a>
+
+## Public repositories
+
+All public repositories are listed below. The list refreshes when this profile repository changes and once a day to pick up activity elsewhere.
+
+<!-- REPOSITORIES:START -->
 <details>
-<summary><strong>More about me</strong></summary>
-<br>
+<summary>Browse all 13 public repositories</summary>
 
-Curious about how threats are discovered and how small, useful tools can make security work clearer. Currently strengthening my programming fundamentals through hands-on projects.
+| Repository | Description | Language | Stars | Updated |
+|---|---|---|---:|---|
+| [CineBharat](https://github.com/b1swa25/CineBharat) | — | C | 0 | 2026-11-15 |
+| [PayloadsAllTheThings](https://github.com/b1swa25/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | — | 0 | 2026-11-09 |
+| [b1swa25](https://github.com/b1swa25/b1swa25) | My Cybersecurity Command Center | Python | 0 | 2026-10-02 |
+| [Holy\-Bible\-XML\-Format](https://github.com/b1swa25/Holy-Bible-XML-Format) | Holy Bible in 200\+ Languages and 1000\+ versions in XML Format\. | Python | 0 | 2026-07-29 |
+| [my\-Jarvis](https://github.com/b1swa25/my-Jarvis) | Personal AI, On Personal Devices | — | 0 | 2026-06-25 |
+| [b1swa\_SerConfig](https://github.com/b1swa25/b1swa_SerConfig) | — | Python | 0 | 2026-05-30 |
+| [C\-With\-b1swa](https://github.com/b1swa25/C-With-b1swa) | — | C | 0 | 2026-04-26 |
+| [Browser\-Exten](https://github.com/b1swa25/Browser-Exten) | — | — | 0 | 2026-04-19 |
+| [my\_portfolio](https://github.com/b1swa25/my_portfolio) | Dual\-mode personal portfolio for a security specialist, featuring both a terminal interface and a modern GUI to showcase skills, projects, achievements and contact information in an interactive, cybersecurity\-themed design\. | HTML | 0 | 2026-04-17 |
+| [DeepScan\.ai](https://github.com/b1swa25/DeepScan.ai) | — | CSS | 0 | 2026-03-12 |
+| [Homoglyph\-analyser](https://github.com/b1swa25/Homoglyph-analyser) | — | HTML | 0 | 2025-11-18 |
+| [file\-dump\-search](https://github.com/b1swa25/file-dump-search) | — | HTML | 0 | 2025-11-18 |
+| [Infotact\-Solution\-Internship](https://github.com/b1swa25/Infotact-Solution-Internship) | Network Intrusion Detection System \(NIDS\) to monitor and detect malicious activities in a simulated network environment\. The setup uses Kali\-Linux as the attacker machine and Ubuntu Server as the target machine, with SNORT as the core intrusion detection engine | Python | 0 | 2025-10-29 |
 
 </details>
+<!-- REPOSITORIES:END -->
 
-<a id="projects"></a>
+<a id="activity"></a>
 
-## `02` / Projects
+## Live GitHub activity
 
-<div align="center">
-
-<a href="https://github.com/b1swa25/C-With-b1swa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=C-With-b1swa&theme=tokyonight&hide_border=true" alt="C programming projects">
-</a>
-<a href="https://github.com/b1swa25/b1swa25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b1swa25&repo=b1swa25&theme=tokyonight&hide_border=true" alt="Threat intelligence profile project">
-</a>
-
-</div>
-
-<a id="threat-feed"></a>
-
-## `03` / Bhutan threat feed
+These cards read current GitHub data; their images update independently of this README.
 
 <div align="center">
 
-<a href="https://github.com/b1swa25/b1swa25/actions/workflows/generate-graph.yml">
-  <img src="./bhutan_threat_graph.png" alt="Latest chart of Bhutan-related threat intelligence tags" width="88%">
-</a>
-
-*Updated by a daily GitHub Action when the OTX API secret is configured.*
-
-</div>
-
-<details>
-<summary><strong>Feed details & setup</strong></summary>
-<br>
-
-The workflow queries AlienVault OTX and regenerates this chart. To enable it, add an `OTX_API_KEY` repository secret under **Settings → Secrets and variables → Actions**. The key stays in GitHub Secrets and is never stored in this repository.
-
-</details>
-
-<a id="live-stats"></a>
-
-## `04` / Live stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=b1swa25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub contribution and repository stats" width="49%">
-<img src="https://streak-stats.demolab.com?user=b1swa25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=b1swa25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Live GitHub stats" width="49%">
+<img src="https://streak-stats.demolab.com?user=b1swa25&theme=tokyonight&hide_border=true" alt="Live GitHub contribution streak" width="49%">
 
 <br>
 
@@ -110,13 +78,13 @@ The workflow queries AlienVault OTX and regenerates this chart. To enable it, ad
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated contribution graph">
+  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph">
 </picture>
 
 </div>
 
 <div align="center">
 
-<sub>Faridabad, Haryana, India · with education roots in Dewathang, Bhutan · Thanks for visiting</sub>
+<sub>Faridabad, Haryana, India · Thanks for visiting</sub>
 
 </div>
