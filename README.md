@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in **Computer Science & Engineering**, focused on **Digital Forensic and Cyber Security**
 - 🎓 Diploma in **Computer System & Network**, with a focus on **CCNA**
-- 📍 Faridabad, Haryana, India
+- 📍  Thimphu, Bhutan
 - 🔍 Interested in digital forensics, defensive security, Linux, and systems programming
 
 ## Education
