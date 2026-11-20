@@ -1,39 +1,36 @@
-<div align="center">
+<h1 align="center">Hi, I'm Sandip Biswa 👋</h1>
+<h3 align="center">Computer Science & Engineering · Digital Forensic and Cyber Security</h3>
 
-<img src="./assets/profile-header.svg" alt="Sandip Biswa — cybersecurity and digital forensics" width="100%">
+<p align="center">
+  <a href="https://github.com/b1swa25">
+    <img src="https://komarev.com/ghpvc/?username=b1swa25&style=flat-square&color=blue" alt="Profile views">
+  </a>
+  <a href="https://github.com/b1swa25?tab=followers">
+    <img src="https://img.shields.io/github/followers/b1swa25?style=flat-square" alt="GitHub followers">
+  </a>
+</p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=b1swa25&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/b1swa25)
-[![Followers](https://img.shields.io/github/followers/b1swa25?style=for-the-badge&logo=github&label=FOLLOW)](https://github.com/b1swa25?tab=followers)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=35C2A1&center=true&vCenter=true&width=700&lines=Digital+Forensics+%26+Cyber+Security;Exploring+Linux+and+Defensive+Security;Learning+by+Building+Practical+Projects" alt="Digital forensics, cybersecurity, and practical projects">
+</p>
 
-<a href="#about">ABOUT</a> &nbsp;·&nbsp;
-<a href="#education">EDUCATION</a> &nbsp;·&nbsp;
-<a href="#repositories">REPOSITORIES</a> &nbsp;·&nbsp;
-<a href="#activity">ACTIVITY</a>
+## About me
 
-</div>
-
----
-
-<a id="about"></a>
-
-## About
-
-I’m **Sandip Biswa** (`b1swa25`), studying Computer Science & Engineering with a focus on **Digital Forensic and Cyber Security**. I enjoy learning by building practical projects and exploring Linux, systems programming, and defensive security.
-
-<a id="education"></a>
+- 🎓 B.Tech in **Computer Science & Engineering**, focused on **Digital Forensic and Cyber Security**
+- 🎓 Diploma in **Computer System & Network**
+- 📍 Faridabad, Haryana, India
+- 🔍 Interested in digital forensics, defensive security, Linux, and systems programming
 
 ## Education
 
 | Program | Focus | Location |
 |---|---|---|
-| **B.Tech — Computer Science & Engineering** | Digital Forensic and Cyber Security | Faridabad, Haryana, India |
-| **Diploma — Computer System & Network** |  | Dewathang, Bhutan |
-
-<a id="repositories"></a>
+| B.Tech — Computer Science & Engineering | Digital Forensic and Cyber Security | Faridabad, Haryana, India |
+| Diploma — Computer System & Network |  | Dewathang, Bhutan |
 
 ## Public repositories
 
-All public repositories are listed below. The list refreshes when this profile repository changes and once a day to pick up activity elsewhere.
+This list includes all public repositories and refreshes on profile updates and daily.
 
 <!-- REPOSITORIES:START -->
 <details>
@@ -58,33 +55,29 @@ All public repositories are listed below. The list refreshes when this profile r
 </details>
 <!-- REPOSITORIES:END -->
 
-<a id="activity"></a>
+## GitHub stats
 
-## Live GitHub activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b1swa25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="49%">
+  <img src="https://streak-stats.demolab.com?user=b1swa25&theme=tokyonight&hide_border=true" alt="Contribution streak" width="49%">
+</p>
 
-These cards read current GitHub data; their images update independently of this README.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1swa25&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" width="49%">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=tokyo-night&hide_border=true&area=true" alt="Recent GitHub activity" width="98%">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=b1swa25&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Live GitHub stats" width="49%">
-<img src="https://streak-stats.demolab.com?user=b1swa25&theme=tokyonight&hide_border=true" alt="Live GitHub contribution streak" width="49%">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph">
+  </picture>
+</p>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=b1swa25&theme=tokyo-night&hide_border=true&area=true" alt="Live GitHub activity graph" width="98%">
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/b1swa25/b1swa25/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph">
-</picture>
-
-</div>
-
-<div align="center">
-
-<sub>Faridabad, Haryana, India · Thanks for visiting</sub>
-
-</div>
+<p align="center">
+  <sub>Layout inspired by the open-source <a href="https://github.com/rahuldkjain/github-profile-readme-generator">GitHub Profile README Generator</a>.</sub>
+</p>
