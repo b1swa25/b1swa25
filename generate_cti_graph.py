@@ -1,49 +1,65 @@
 import requests
 import matplotlib.pyplot as plt
-import datetime
+import os
 
 def fetch_bhutan_threats():
-    # Using AlienVault OTX (no API key needed for basic pulses)
-    # Search for pulses related to Bhutan
-    url = "https://otx.alienvault.com/api/v1/pulses/search?q=Bhutan"
-    try:
-        response = requests.get(url)
-        data = response.json()
-        
-        # Extract data for graphing
-        # We'll count pulses by month or type
-        threat_types = {}
-        for pulse in data.get('results', []):
-            tags = pulse.get('tags', [])
-            for tag in tags:
-                threat_types[tag] = threat_types.get(tag, 0) + 1
-        
-        # Sort and take top 5
-        sorted_threats = dict(sorted(threat_types.items(), key=lambda item: item[1], reverse=True)[:5])
-        return sorted_threats
-    except Exception as e:
-        print(f"Error fetching data: {e}")
-        return {"Phishing": 10, "Malware": 5, "DDoS": 3, "Credential Theft": 8, "Vulnerability": 4} # Fallback data
+    api_key = os.environ.get('OTX_API_KEY')
+    if not api_key:
+        raise RuntimeError('Set the OTX_API_KEY environment variable to fetch threat intelligence.')
+
+    url = "https://otx.alienvault.com/api/v1/search/pulses"
+    response = requests.get(
+        url,
+        params={'q': 'Bhutan'},
+        headers={'X-OTX-API-KEY': api_key},
+        timeout=30
+    )
+    response.raise_for_status()
+    data = response.json()
+
+    threat_types = {}
+    for pulse in data.get('results', []):
+        for tag in pulse.get('tags', []):
+            threat_types[tag] = threat_types.get(tag, 0) + 1
+
+    return dict(sorted(threat_types.items(), key=lambda item: item[1], reverse=True)[:5])
 
 def generate_graph(data):
     names = list(data.keys())
     values = list(data.values())
 
-    plt.style.use('dark_background')
-    fig, ax = plt.subplots(figsize=(8, 4))
-    
-    bars = ax.barh(names, values, color='#00ff41')
-    ax.set_title('Bhutan Regional Threat Distribution (Last 30 Days)', color='#00ff41', fontsize=14)
-    ax.set_xlabel('Pulse Count', color='#00ff41')
-    
-    # Customize aesthetics
-    ax.spines['bottom'].set_color('#00ff41')
-    ax.spines['left'].set_color('#00ff41')
-    ax.tick_params(axis='x', colors='#00ff41')
-    ax.tick_params(axis='y', colors='#00ff41')
-    
-    plt.tight_layout()
-    plt.savefig('bhutan_threat_graph.png', transparent=True)
+    background = '#0d1117'
+    foreground = '#c9d1d9'
+    accent = '#39d0c3'
+    fig, ax = plt.subplots(figsize=(9, 4.5), facecolor=background)
+    ax.set_facecolor(background)
+    ax.set_title('Bhutan-Related Threat Intelligence Tags', color=foreground, fontsize=15, pad=18)
+
+    if names:
+        bars = ax.barh(names, values, color=accent, height=0.65)
+        ax.invert_yaxis()
+        ax.set_xlabel('Pulse tag occurrences', color=foreground)
+        ax.bar_label(bars, padding=6, color=foreground)
+        ax.set_xlim(0, max(values) * 1.15)
+        ax.spines['bottom'].set_color('#30363d')
+        ax.spines['left'].set_color('#30363d')
+        ax.tick_params(axis='x', colors=foreground)
+        ax.tick_params(axis='y', colors=foreground)
+        ax.xaxis.grid(True, color='#21262d', linewidth=0.8)
+        ax.set_axisbelow(True)
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+    else:
+        ax.set_axis_off()
+        ax.text(
+            0.5, 0.5, 'No tagged threats found in the latest feed.',
+            color=foreground, ha='center', va='center', transform=ax.transAxes,
+            fontsize=12
+        )
+
+    fig.tight_layout(pad=2)
+    fig.savefig('bhutan_threat_graph.png', dpi=160, facecolor=background)
+    plt.close(fig)
 
 if __name__ == "__main__":
     threat_data = fetch_bhutan_threats()

@@ -25,6 +25,8 @@ jobs:
       
       - name: Generate Graph
         run: python generate_cti_graph.py
+        env:
+          OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
       
       - name: Commit and Push
         run: |
