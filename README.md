@@ -35,10 +35,12 @@ This list includes all public repositories and refreshes on profile updates and 
 
 <!-- REPOSITORIES:START -->
 <details>
-<summary>Browse all 13 public repositories</summary>
+<summary>Browse all 15 public repositories</summary>
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---:|---|
+| [Digital\-Forensics\-Guide](https://github.com/b1swa25/Digital-Forensics-Guide) | Digital Forensics Guide\. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics\. | — | 0 | 2026-11-27 |
+| [digital\-forensics\-lab](https://github.com/b1swa25/digital-forensics-lab) | Free hands\-on digital forensics labs for students and faculty | — | 0 | 2026-11-27 |
 | [CineBharat](https://github.com/b1swa25/CineBharat) | — | C | 0 | 2026-11-15 |
 | [PayloadsAllTheThings](https://github.com/b1swa25/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF | — | 0 | 2026-11-09 |
 | [b1swa25](https://github.com/b1swa25/b1swa25) | My Cybersecurity Command Center | Python | 0 | 2026-10-02 |
