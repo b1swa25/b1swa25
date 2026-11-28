@@ -35,10 +35,11 @@ This list includes all public repositories and refreshes on profile updates and 
 
 <!-- REPOSITORIES:START -->
 <details>
-<summary>Browse all 15 public repositories</summary>
+<summary>Browse all 16 public repositories</summary>
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---:|---|
+| [vps](https://github.com/b1swa25/vps) | — | — | 0 | 2026-11-28 |
 | [Digital\-Forensics\-Guide](https://github.com/b1swa25/Digital-Forensics-Guide) | Digital Forensics Guide\. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics\. | — | 0 | 2026-11-27 |
 | [digital\-forensics\-lab](https://github.com/b1swa25/digital-forensics-lab) | Free hands\-on digital forensics labs for students and faculty | — | 0 | 2026-11-27 |
 | [CineBharat](https://github.com/b1swa25/CineBharat) | — | C | 0 | 2026-11-15 |
